@@ -3,7 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-services/project-structure.txt
+.project-structure.txt
 
 ### STS ###
 .apt_generated

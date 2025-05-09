@@ -1,4 +1,4 @@
-﻿package com.example.userservice.model;
+package com.example.userservice.model;
 
 import jakarta.persistence.*;
 
@@ -11,7 +11,6 @@ public class User {
     private String email;
 
     public User() {}
-
     public Long getId() { return id; }
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
