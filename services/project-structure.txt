@@ -1,0 +1,13 @@
+C:\Users\KHUser\Desktop\2025面試\Welhunt\microservices-for-java-eshop\services
+└── user-service
+   ├── .gitattributes
+   ├── .gitignore
+   ├── .mvn
+   ├── HELP.md
+   ├── mvnw
+   ├── mvnw.cmd
+   ├── pom.xml
+   └── src
+
+directory: 3 file: 6
+
