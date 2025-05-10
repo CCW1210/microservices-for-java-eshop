@@ -1,9 +1,11 @@
 package com.example.userservice.service;
 
-import com.example.userservice.model.User;
 import java.util.List;
 
+import com.example.userservice.model.User;
+
 public interface UserService {
-    List<User> findAllUsers();
-    User createUser(User u);
+  List<User> findAllUsers();
+
+  User createUser(User u);
 }
