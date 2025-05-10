@@ -1,4 +1,4 @@
-package com.example.userservice.mapper;
+﻿package com.example.userservice.mapper;
 
 import com.example.userservice.model.User;
 import org.apache.ibatis.annotations.Mapper;

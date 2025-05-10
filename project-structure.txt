@@ -1,0 +1,63 @@
+C:\Users\KHUser\Desktop\2025面試\Welhunt\microservices-for-java-eshop
+├── .github
+|  └── workflows
+|     └── ci-cd.yml
+├── .gitignore
+├── docs
+|  └── architecture.md
+├── infra
+|  ├── helm
+|  |  └── Chart.yaml
+|  └── k8s
+├── README.md
+└── services
+   ├── cart-service
+   ├── order-service
+   ├── product-service
+   └── user-service
+      ├── .gitattributes
+      ├── .gitignore
+      ├── .mvn
+      |  └── wrapper
+      |     └── maven-wrapper.properties
+      ├── HELP.md
+      ├── mvnw
+      ├── mvnw.cmd
+      ├── pom.xml
+      ├── project-structure.txt
+      ├── src
+      |  ├── main
+      |  |  ├── java
+      |  |  ├── resources
+      |  |  └── webapp
+      |  └── test
+      |     ├── java
+      |     └── resources
+      └── target
+         ├── classes
+         |  ├── application.properties
+         |  ├── com
+         |  └── mapper
+         ├── generated-sources
+         |  └── annotations
+         ├── generated-test-sources
+         |  └── test-annotations
+         ├── maven-archiver
+         |  └── pom.properties
+         ├── maven-status
+         |  └── maven-compiler-plugin
+         ├── surefire-reports
+         |  ├── com.example.userservice.UserServiceApplicationTests.txt
+         |  └── TEST-com.example.userservice.UserServiceApplicationTests.xml
+         ├── test-classes
+         |  ├── application-test.properties
+         |  └── com
+         ├── user-service-0.0.1-SNAPSHOT
+         |  ├── META-INF
+         |  └── WEB-INF
+         ├── user-service-0.0.1-SNAPSHOT.war
+         └── user-service-0.0.1-SNAPSHOT.war.original
+
+directory: 170 file: 200
+
+ignored: directory (1)
